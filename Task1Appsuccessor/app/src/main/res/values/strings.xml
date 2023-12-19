@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="text">Commence your fitness \njourney today. Embrace an \nactivity lifestyle and prioritize \nyour health.</string>
+    <string name="text1">Create exercise routines,\nchoose specific exercises,\nand established the desired\nweight and repetitions.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment 1</string>
+</resources>
